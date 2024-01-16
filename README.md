@@ -1,14 +1,11 @@
-## `Hi! ✌️ I'm Ignacio Molina - aka Strocs`
-
+# `Hi! ✌️ I'm Ignacio Molina - aka Strocs`
+### `💻 I'm Frontend Developer`
 ```
-
-- 💻 I'm Frontend Developer
 - 🚀 About 2 years ago I decided become a Developer
 - 🏫 Currently learning more every day!
 - 💖 I'm interested in Tech World, Design, Music and Architecture
 - ⚒️ Architect by profession
 - 🆑 I'm from Chile! :)
-
 ```
 
 ## `🫠 Where to find me?`
