@@ -25,7 +25,7 @@
 
 ## `💪 Streak`
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Strocs&theme=monokai-metallian&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Strocs&theme=slateorange&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
 <br/>
 
