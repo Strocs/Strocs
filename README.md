@@ -31,7 +31,7 @@
 
 ## `🎧 Spotify Playing`
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Strocs&theme=slateorange&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+[![Strocs](https://spotify-github-profile.vercel.app/api/view?uid=strocs&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=strocs&redirect=true)
 
 ## `🛠️ Favorite Tools`
 
