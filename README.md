@@ -1,9 +1,9 @@
 # `Hi! ✌️ I'm Ignacio Molina - aka Strocs`
 ### `💻 I'm Frontend Developer`
 ```
-- 🚀 About 2 years ago I decided to become a Dev
-- 🏫 Currently learning more every day!
-- 💖 I'm interested in Tech World, Design, Music and Architecture
+- 🚀 About 2 years ago I decided to become a developer
+- 🏫 Currently I'm learning more every day!
+- 💖 My interests include technology, design, music, and architecture
 - ⚒️ Architect by profession
 - 🆑 I'm from Chile! :)
 ```
