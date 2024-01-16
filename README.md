@@ -35,7 +35,7 @@
 <br/>
 
 ## `🛠️ Favorite Tools`
-`👨‍💻 Programming Languages`
+### `👨‍💻 Programming Languages`
 <p>
   <a href="#"><img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"></a>
   &nbsp;
@@ -47,7 +47,7 @@
 </p>
 <br/>
 
-`🤖 Frameworks, Platforms and Libraries`
+### `🤖 Frameworks, Platforms and Libraries`
 
 <p>
   <a href="#"><img alt="Astro" src="https://img.shields.io/badge/astro-%232C2052.svg?style=flat-square&logo=astro&logoColor=white"></a>
@@ -66,7 +66,7 @@
 </p>
 <br/>
 
-`🫙 Databases and Cloud Hosting`
+### `🫙 Databases and Cloud Hosting`
 
 <p>
   <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white"></a>
@@ -79,7 +79,7 @@
 </p>
 <br/>
 
-`💻 Software and Tools`
+### `💻 Software and Tools`
 
 <p>
   <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat-square&logo=adobe&logoColor=white"></a>
@@ -92,7 +92,7 @@
 </p>
 <br/>
 
-`🏫 Learning Platform`
+### `🏫 Learning Platform`
 
 <p>
   <a href="#"><img alt="Codecademy" src="https://img.shields.io/badge/Codecademy-FFF0E5?style=flat-square&logo=codecademy&logoColor=1F243A"></a>
