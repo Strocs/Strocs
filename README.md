@@ -1,4 +1,4 @@
-## `Hi! I'm Ignacio Molina - aka Strocs`
+## `Hi! ✌️ I'm Ignacio Molina - aka Strocs`
 
 ```
 
