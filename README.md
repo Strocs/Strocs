@@ -11,7 +11,7 @@
 
 ```
 
-## `🫠 Where find me?`
+## `🫠 Where to find me?`
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igmolinap)
 &nbsp;&nbsp;
@@ -23,13 +23,13 @@
 &nbsp;&nbsp;
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/user/291358295145316352)
 
-## `💪 Streak`
+## `💪 Code Streak`
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Strocs&theme=slateorange&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
 <br/>
 
-## `🎧 Spotify Playing`
+## `🎧 What I'm listening now?`
 
 [![Strocs](https://spotify-github-profile.vercel.app/api/view?uid=strocs&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=strocs&redirect=true)
 
