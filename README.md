@@ -23,6 +23,8 @@
 &nbsp;&nbsp;
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/user/291358295145316352)
 
+<br/>
+
 ## `💪 Code Streak`
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Strocs&theme=slateorange&hide_border=true&mode=weekly)](https://git.io/streak-stats)
@@ -33,12 +35,10 @@
 
 [![Strocs](https://spotify-github-profile.vercel.app/api/view?uid=strocs&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=strocs&redirect=true)
 
-## `🛠️ Favorite Tools`
-
 <br/>
 
+## `🛠️ Favorite Tools`
 `👨‍💻 Programming Languages`
-
 <p>
   <a href="#"><img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"></a>
   &nbsp;
