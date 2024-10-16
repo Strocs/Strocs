@@ -28,12 +28,6 @@
 
 <br/>
 
-## `🎧 What I'm listening now?`
-
-[![Strocs](https://spotify-github-profile.vercel.app/api/view?uid=strocs&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=strocs&redirect=true)
-
-<br/>
-
 ## `🛠️ Favorite Tools`
 ### `👨‍💻 Programming Languages`
 <p>
