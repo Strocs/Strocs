@@ -20,8 +20,6 @@
 &nbsp;&nbsp;
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/user/291358295145316352)
 
-<br/>
-
 ## `🛠️ Favorite Tools`
 ### `👨‍💻 Programming Languages`
 <p>
