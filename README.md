@@ -19,5 +19,12 @@
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/user/291358295145316352)
 
 ---
+<a href="https://github.com/kittinan/spotify-github-profile">
+  <img alt="Strocs's Music" src="https://spotify-github-profile.kittinanx.com/api/view?uid=strocs&cover_image=true&theme=spotify-embed&show_offline=false&background_color=000000&interchange=false&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=false"/>
+</a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Strocs's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Strocs&langs_count=8&layout=compact&theme=react&card_width=250&hide_border=true&bg_color=36393fFF&title_color=faa627&icon_color=faa627&border_radius=10" height="192px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img alt="Strocs's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Strocs&langs_count=8&hide_title=true&layout=compact&theme=react&card_width=360&hide_border=true&bg_color=181818&title_color=faa627&icon_color=faa627&border_radius=10"/>
+</a>
+
+
