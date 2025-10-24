@@ -8,8 +8,6 @@
 - 🆑 I'm from Chile! :)
 ```
 
-## `🫠 Where to find me?`
-
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ignacio-andres-molina/)
 &nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Strocs)
